@@ -10,7 +10,7 @@ NEZHA_PORT=
 NEZHA_KEY=
 
 # Argo 固定域名隧道的两个参数,这个可以填 Json 内容或 Token 内容，获取方式看 https://github.com/fscarmen2/X-for-Glitch，不需要的话可以留空，删除或在这三行最前面加 # 以注释
-ARGO_AUTH='{"AccountTag":"17a2d194dbecedf178f4421b8a420149","TunnelSecret":"hjEZWfLtaQFuTS/iHRDghIwIYmHH/dBhtU7hM7ZGaOA=","TunnelID":"071923bd-f672-43ea-bac4-00c6a8be45e7"}'
+ARGO_AUTH='{"AccountTag":"17a2d194dbecedf178f4421b8a420149","TunnelSecret":"G31CYw5dnRwEkG4LWZuD76knnQAKTnk398Ho1yEW1vg=","TunnelID":"05a832a4-1ee3-4aa8-97ed-77fc33d5cc13"}'
 ARGO_DOMAIN=sky.mnfcw3tgn.cf
 
 generate_config() {
